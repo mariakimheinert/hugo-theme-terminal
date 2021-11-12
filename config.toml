@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://peaceful-volhard-dba9df.netlify.app/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
